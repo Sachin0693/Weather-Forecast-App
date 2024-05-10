@@ -1,2 +1,8 @@
-# Weather-Forecast-App
- Weather Forecast WebApp Card! 🌍  ✨ Leveraging HTML, Tailwind CSS, vanilla CSS, JavaScript, and React.js, I crafted a dynamic platform where users can effortlessly check the weather of any place on Earth.  🚀 With the efficiency of Vite, I accelerated the development process, ensuring a fast and seamless user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
