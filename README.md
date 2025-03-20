@@ -1,8 +1,15 @@
-# React + Vite
+ Weather Forecast WebApp Card
+A sleek and lightweight weather forecasting web application that allows users to check the real-time weather of any location worldwide. Built using React.js, Tailwind CSS, and JavaScript, with Vite for faster performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+✅ Search Any Location – Get real-time weather updates for any city or country.
+✅ Live Weather Data – Displays temperature, humidity, wind speed, and weather conditions.
+✅ Responsive UI – Designed with Tailwind CSS for a modern and adaptive layout.
+✅ Fast & Efficient – Uses Vite for quick builds and optimized performance.
+✅ API Integration – Fetches real-time weather details using OpenWeatherMap API.
+✅ Error Handling – Handles invalid locations with user-friendly alerts.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Tech Stack
+Frontend: HTML, Tailwind CSS, JavaScript, React.js
+Development Tool: Vite
+API: OpenWeatherMap API 
